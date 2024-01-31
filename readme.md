@@ -37,18 +37,14 @@
 **Ressources supplémentaires**
 
 1. **Minecraft Wiki** - La ressource principale pour tout ce qui concerne Minecraft, offrant des informations détaillées sur les ressources, les crafts, les mobs et bien plus encore.
-   1. Site web : Minecraft Wiki
-1. **Minecraft Gamepedia** - Une autre grande base de données et wiki pour Minecraft, offrant une vaste quantité d'informations sur les ressources, les mécanismes du jeu et les mises à jour.
-   1. Site web : Minecraft Gamepedia
+   1. Site web : [Minecraft Wiki](https://fr.minecraft.wiki/)
 1. **Minecraft ID List** - Une liste complète des identifiants pour les blocs, objets, mobs et entités dans Minecraft. Utile pour la création de bases de données ou de références.
-   1. Site web : Minecraft ID List
+   1. Site web : [Minecraft ID List](https://minecraft-ids.grahamedgecombe.com/)  
 1. **Minecraft Crafting Guide** - Un guide détaillé des crafts dans Minecraft, montrant comment fabriquer différents objets et blocs à partir de ressources.
    1. Site web : [Minecraft Crafting Guide](https://minecraftcraftingguide.net/)
 1. **Minecraft Blocks & Items Database** - Une base de données interactive des blocs et objets disponibles dans Minecraft, avec des informations sur leur utilisation et leurs propriétés.
    1. Site web : [Minecraft Blocks & Items Database](https://minecraftitemids.com/)
 1. **Minecraft Tools & Weapons Database** - Une base de données qui répertorie les outils et les armes disponibles dans Minecraft, avec des détails sur leurs statistiques et leurs recettes.
-   1. Site web : Minecraft Tools & Weapons Database
-1. **Minecraft Forum - Resource Packs** - Une section du forum Minecraft dédiée aux packs de ressources, où les joueurs partagent et discutent des différents packs disponibles.
-   1. Site web : Minecraft Forum - Resource Packs
+   1. Site web : [Minecraft Tools & Weapons Database]([https://fr.minecraft.wiki/](https://minecraft.tools/en/command-15456-weapons)   
 
 
