@@ -58,17 +58,5 @@
 **Exemples**
 
 
-Table "resources" :
-Colonne	Type	Description
-id	INT	Clé primaire auto-incrémentée
-name	VARCHAR(100)	Nom de la ressource
-extraction	VARCHAR(50)	Moyen d'extraction de la ressource
-rarity	VARCHAR(20)	Rarete de la ressource
-location_id	INT	Clé étrangère faisant référence à l'id de la table "locations"
-Table "locations" :
-Colonne	Type	Description
-id	INT	Clé primaire auto-incrémentée
-name	VARCHAR(100)	Nom de la zone géographique
-biome	VARCHAR(50)	Biome de la zone géographique
-coordinates	VARCHAR(100)	Coordonnées de la zone géographique
+![alt text](exemple.png "Exemple BDD")
 
