@@ -58,5 +58,5 @@
 **Exemples**
 
 
-![alt text](exemple.png "Exemple BDD" =x250)
+<img src="exemple.png" alt="Exemple BDD" width="300"/>
 
