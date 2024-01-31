@@ -58,5 +58,5 @@
 **Exemples**
 
 
-<img src="exemple.png" alt="Exemple BDD" width="300"/>
+<img src="exemple.png" alt="Exemple BDD" width="500"/>
 
