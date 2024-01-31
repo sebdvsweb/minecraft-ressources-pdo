@@ -1,4 +1,4 @@
-**Partie 1: Setup initial**
+## **Partie 1: Setup initial**
 
 1. **Base de données**
    1. Créez une base de données nommée "MinecraftResourcesDB".
@@ -9,7 +9,7 @@
   
 
 
-**Partie 2: Backend - PHP avec PDO**
+## **Partie 2: Backend - PHP avec PDO**
 
 3. **Connexion à la base de données**
    1. Écrivez un script PHP pour établir la connexion à la base de données en utilisant PDO.
@@ -19,7 +19,7 @@
 
   
 
-**Partie 3: Frontend - HTML, CSS, JavaScript**
+## **Partie 3: Frontend - HTML, CSS, JavaScript**
 
 5. **Page d'accueil**
    1. Créez une page d'accueil attrayante qui affiche une liste de toutes les ressources disponibles. Utilisez Bootstrap pour organiser et styliser cette liste.
@@ -35,12 +35,12 @@
 
 
   
-**Partie 4: Requêtes avancées SQL**
+## **Partie 4: Requêtes avancées SQL**
 
 9. **Requêtes avec jointures**
    1. Proposez des exercices qui mettent en pratique les jointures SQL pour récupérer des données à partir de plusieurs tables liées.
   
-**Ressources supplémentaires**
+## **Ressources supplémentaires**
 
 1. **Minecraft Wiki** - La ressource principale pour tout ce qui concerne Minecraft, offrant des informations détaillées sur les ressources, les crafts, les mobs et bien plus encore.
    1. Site web : [Minecraft Wiki](https://fr.minecraft.wiki/)
@@ -55,8 +55,6 @@
 
 
 
-**Exemples**
-
-
+### **Exemple **
 <img src="exemple.png" alt="Exemple BDD" width="500"/>
 
