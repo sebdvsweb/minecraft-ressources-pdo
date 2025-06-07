@@ -3,7 +3,40 @@
 1. **Base de données**
    1. Créez une base de données nommée "MinecraftResourcesDB".
    2. Définissez plusieurs tables pour stocker les ressources en fonction de critères tels que le lieu d'extraction, la rareté, le moyen d'obtention, etc.
-1. **Structure du projet**
+  
+```sql
+CREATE TABLE locations (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    biome VARCHAR(50),
+    coordinates VARCHAR(100)
+);
+```
+
+```sql
+CREATE TABLE resources (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    extraction VARCHAR(50),
+    rarity VARCHAR(20),
+    location_id INT,
+    FOREIGN KEY (location_id) REFERENCES locations(id)
+);
+```
+
+   ". Insérez un maximum de ressources dans vos tables. Aidez-vous des liens fournis en fin de consignes. Exemple :
+
+```sql
+INSERT INTO locations (name, biome, coordinates)
+VALUES ('Forêt Noire', 'Forêt', '48.50N, 8.20E');
+```
+
+```sql
+INSERT INTO resources (name, extraction, rarity, location_id)
+VALUES ('Bois', 'Coupe', 'Commun', 1);
+```   
+   
+2. **Structure du projet**
    1. Créez une arborescence de fichiers avec au moins quatre pages : accueil, ajout de ressources, modification et suppression de ressources.
    2. Intégrez Bootstrap pour le design.  
   
